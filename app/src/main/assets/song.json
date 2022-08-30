@@ -1,0 +1,124 @@
+{
+  "Genres" : [
+    {
+      "name" : "발라드",
+      "songs" : [
+        {
+          "name": "사랑인가 봐",
+          "poster": "balad_1",
+          "desc": "멜로망스"
+        },
+        {
+          "name": "나의 X에게",
+          "poster": "balad_2",
+          "desc": "경서"
+        },
+        {
+          "name": "취중고백",
+          "poster": "balad_3",
+          "desc": "김민석 (멜로망스)"
+        },
+        {
+          "name": "사랑은 늘 도망가",
+          "poster": "balad_4",
+          "desc": "임영웅"
+        },
+        {
+          "name": "우리들의 블루스",
+          "poster": "balad_5",
+          "desc": "임영웅"
+        }
+      ]
+    },
+    {
+      "name" : "댄스",
+      "songs" : [
+        {
+          "name": "LOVE DIVE",
+          "poster": "dance_1",
+          "desc": "IVE (아이브)"
+        },
+        {
+          "name": "That That (prod. & feat. SUGA of BTS)",
+          "poster": "dance_2",
+          "desc": "싸이 (PSY)"
+        },
+        {
+          "name": "FEARLESS",
+          "poster": "dance_3",
+          "desc": "LE SSERAFIM (르세라핌)"
+        },
+        {
+          "name": "Feel My Rhythm",
+          "poster": "dance_4",
+          "desc": "Red Velvet (레드벨벳)"
+        },
+        {
+          "name": "ELEVEN",
+          "poster": "dance_5",
+          "desc": "IVE (아이브)"
+        }
+      ]
+    },
+    {
+      "name" : "랩/힙합",
+      "songs" : [
+        {
+          "name": "LOVE me",
+          "poster": "rap_1",
+          "desc": "BE'O (비오)"
+        },
+        {
+          "name": "Yet To Come",
+          "poster": "rap_2",
+          "desc": "방탄소년단"
+        },
+        {
+          "name": "ZOOM",
+          "poster": "rap_3",
+          "desc": "제시 (Jessi)"
+        },
+        {
+          "name": "MY BAG",
+          "poster": "rap_4",
+          "desc": "(여자)아이들"
+        },
+        {
+          "name": "회전목마 (Feat. Zion.T, 원슈타인) (Prod. Slom)",
+          "poster": "rap_5",
+          "desc": "sokodomo"
+        }
+      ]
+    },
+    {
+      "name" : "재즈",
+      "songs" : [
+        {
+          "name": "손이 참 곱던 그대",
+          "poster": "jazz_1",
+          "desc": "임영웅"
+        },
+        {
+          "name": "Summer Is for Falling in Love",
+          "poster": "jazz_2",
+          "desc": "Sarah Kang"
+        },
+        {
+          "name": "Sleeping Beauty (하트시그널 삽입곡)",
+          "poster": "jazz_3",
+          "desc": "Paul"
+        },
+        {
+          "name": "Don't Know Why",
+          "poster": "jazz_4",
+          "desc": "Norah Jones"
+        },
+        {
+          "name": "고양이 (Feat. 아이유)",
+          "poster": "jazz_5",
+          "desc": "선우정아"
+        }
+      ]
+    }
+  ]
+}
